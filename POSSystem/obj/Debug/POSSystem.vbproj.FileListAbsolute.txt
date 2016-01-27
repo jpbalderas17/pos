@@ -1,0 +1,51 @@
+C:\Users\SGTSI\Documents\Visual Studio 2013\Projects\POSSystem\POSSystem\bin\Debug\POSSystem.exe.config
+C:\Users\SGTSI\Documents\Visual Studio 2013\Projects\POSSystem\POSSystem\bin\Debug\POSSystem.exe
+C:\Users\SGTSI\Documents\Visual Studio 2013\Projects\POSSystem\POSSystem\bin\Debug\POSSystem.pdb
+C:\Users\SGTSI\Documents\Visual Studio 2013\Projects\POSSystem\POSSystem\bin\Debug\POSSystem.xml
+C:\Users\SGTSI\Documents\Visual Studio 2013\Projects\POSSystem\POSSystem\obj\Debug\POSSystem.vbprojResolveAssemblyReference.cache
+C:\Users\SGTSI\Documents\Visual Studio 2013\Projects\POSSystem\POSSystem\obj\Debug\POSSystem.Resources.resources
+C:\Users\SGTSI\Documents\Visual Studio 2013\Projects\POSSystem\POSSystem\obj\Debug\POSSystem.vbproj.GenerateResource.Cache
+C:\Users\SGTSI\Documents\Visual Studio 2013\Projects\POSSystem\POSSystem\obj\Debug\POSSystem.exe
+C:\Users\SGTSI\Documents\Visual Studio 2013\Projects\POSSystem\POSSystem\obj\Debug\POSSystem.xml
+C:\Users\SGTSI\Documents\Visual Studio 2013\Projects\POSSystem\POSSystem\obj\Debug\POSSystem.pdb
+C:\Users\SGTSI\Documents\Visual Studio 2013\Projects\POSSystem\POSSystem\obj\Debug\POSSystem.Reports.resources
+C:\Users\SGTSI\Documents\Visual Studio 2013\Projects\POSSystem\POSSystem\obj\Debug\POSSystem.MainForm.resources
+C:\Users\SGTSI\Documents\Visual Studio 2013\Projects\POSSystem\POSSystem\obj\Debug\POSSystem.Transactions.resources
+C:\Users\SGTSI\Documents\Programs\POSSystem\POSSystem\bin\Debug\POSSystem.exe.config
+C:\Users\SGTSI\Documents\Programs\POSSystem\POSSystem\bin\Debug\POSSystem.exe
+C:\Users\SGTSI\Documents\Programs\POSSystem\POSSystem\bin\Debug\POSSystem.pdb
+C:\Users\SGTSI\Documents\Programs\POSSystem\POSSystem\bin\Debug\POSSystem.xml
+C:\Users\SGTSI\Documents\Programs\POSSystem\POSSystem\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+C:\Users\SGTSI\Documents\Programs\POSSystem\POSSystem\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\SGTSI\Documents\Programs\POSSystem\POSSystem\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+C:\Users\SGTSI\Documents\Programs\POSSystem\POSSystem\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\SGTSI\Documents\Programs\POSSystem\POSSystem\obj\Debug\POSSystem.Login.resources
+C:\Users\SGTSI\Documents\Programs\POSSystem\POSSystem\obj\Debug\POSSystem.MainForm.resources
+C:\Users\SGTSI\Documents\Programs\POSSystem\POSSystem\obj\Debug\POSSystem.Resources.resources
+C:\Users\SGTSI\Documents\Programs\POSSystem\POSSystem\obj\Debug\POSSystem.Transactions.resources
+C:\Users\SGTSI\Documents\Programs\POSSystem\POSSystem\obj\Debug\POSSystem.vbproj.GenerateResource.Cache
+C:\Users\SGTSI\Documents\Programs\POSSystem\POSSystem\obj\Debug\POSSystem.exe
+C:\Users\SGTSI\Documents\Programs\POSSystem\POSSystem\obj\Debug\POSSystem.xml
+C:\Users\SGTSI\Documents\Programs\POSSystem\POSSystem\obj\Debug\POSSystem.pdb
+C:\Users\SGTSI\Documents\Programs\POSSystem\POSSystem\obj\Debug\POSSystem.Users.resources
+C:\Users\SGTSI\Documents\Programs\POSSystem\POSSystem\obj\Debug\POSSystem.Inventory.resources
+C:\Users\SGTSI\Documents\Programs\POSSystem\POSSystem\obj\Debug\POSSystem.Reports.resources
+C:\Users\ASUS-PC\Source\Repos\pos\POSSystem\bin\Debug\POSSystem.exe.config
+C:\Users\ASUS-PC\Source\Repos\pos\POSSystem\obj\Debug\POSSystem.exe
+C:\Users\ASUS-PC\Source\Repos\pos\POSSystem\obj\Debug\POSSystem.xml
+C:\Users\ASUS-PC\Source\Repos\pos\POSSystem\obj\Debug\POSSystem.pdb
+C:\Users\ASUS-PC\Source\Repos\pos\POSSystem\bin\Debug\POSSystem.exe
+C:\Users\ASUS-PC\Source\Repos\pos\POSSystem\bin\Debug\POSSystem.pdb
+C:\Users\ASUS-PC\Source\Repos\pos\POSSystem\bin\Debug\POSSystem.xml
+C:\Users\ASUS-PC\Source\Repos\pos\POSSystem\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+C:\Users\ASUS-PC\Source\Repos\pos\POSSystem\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\ASUS-PC\Source\Repos\pos\POSSystem\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+C:\Users\ASUS-PC\Source\Repos\pos\POSSystem\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\ASUS-PC\Source\Repos\pos\POSSystem\obj\Debug\POSSystem.Login.resources
+C:\Users\ASUS-PC\Source\Repos\pos\POSSystem\obj\Debug\POSSystem.Reports.resources
+C:\Users\ASUS-PC\Source\Repos\pos\POSSystem\obj\Debug\POSSystem.Users.resources
+C:\Users\ASUS-PC\Source\Repos\pos\POSSystem\obj\Debug\POSSystem.Inventory.resources
+C:\Users\ASUS-PC\Source\Repos\pos\POSSystem\obj\Debug\POSSystem.MainForm.resources
+C:\Users\ASUS-PC\Source\Repos\pos\POSSystem\obj\Debug\POSSystem.Resources.resources
+C:\Users\ASUS-PC\Source\Repos\pos\POSSystem\obj\Debug\POSSystem.Transactions.resources
+C:\Users\ASUS-PC\Source\Repos\pos\POSSystem\obj\Debug\POSSystem.vbproj.GenerateResource.Cache
